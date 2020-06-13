@@ -1,19 +1,19 @@
-#multiSentence
+# multiSentence
 
-##Paper
+## Paper
 [Unsupervised Abstractive Meeting Summarization with Multi-Sentence
 Compression and Budgeted Submodular Maximization](https://arxiv.org/pdf/1805.05271v2.pdf)
 
-##This Repository
+## This Repository
 Here present a program of the algorithm in "Chapter 4 Our Framework" of the paper.
 
 
-##Usage
+## Usage
 Here use the python Flask, it will turn on the 5000 port on localhost as a API
   * API URI: /api/v1.0/multi-sentence/calculator
 
 
-###Run
+### Run
 ```bash
 $ python main.py
 ```
