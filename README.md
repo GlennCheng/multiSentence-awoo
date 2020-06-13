@@ -5,7 +5,7 @@
 Compression and Budgeted Submodular Maximization](https://arxiv.org/pdf/1805.05271v2.pdf)
 
 ## This Repository
-Here present a program of the algorithm in "Chapter 4 Our Framework" of the paper.
+Here present a program of the algorithm in "Chapter 4 - Our Framework" of the paper.
 
 
 ## Usage
